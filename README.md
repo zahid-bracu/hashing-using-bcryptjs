@@ -1,1 +1,1 @@
-# hashing-using-bcryptjs
+<p>The bcrypt hashing function allows us to build a password security platform that scales with computation power and always hashes every password with a salt.Bcrypt has been around since the late 90s and has handled significant scrutiny by the information security/cryptography community. It has proven reliable and secure over time.</p>
